@@ -11,20 +11,8 @@
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>MiningRoster__c</tab>
-        </mappings>
-        <mappings>
-            <tab>MiningSite__c</tab>
-        </mappings>
-        <mappings>
-            <tab>User_Payrecord__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

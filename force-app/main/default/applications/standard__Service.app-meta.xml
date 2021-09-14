@@ -11,7 +11,4 @@
     <tabs>standard-Solution</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
 </CustomApplication>

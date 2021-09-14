@@ -19,21 +19,9 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
-        <mappings>
-            <tab>MiningRoster__c</tab>
-        </mappings>
-        <mappings>
-            <tab>MiningSite__c</tab>
-        </mappings>
-        <mappings>
-            <tab>User_Payrecord__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

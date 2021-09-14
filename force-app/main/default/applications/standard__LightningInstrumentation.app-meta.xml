@@ -6,8 +6,5 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

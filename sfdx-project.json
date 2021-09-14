@@ -5,8 +5,12 @@
       "default": true
     }
   ],
-  "name": "Project1",
+  "name": "Project-1",
   "namespace": "",
+<<<<<<< Updated upstream
   "sfdcLoginUrl": "https://curious-impala-77kivz-dev-ed.my.salesforce.com/",
+=======
+  "sfdcLoginUrl": "https://mindful-unicorn-bz82ix-dev-ed.my.salesforce.com/",
+>>>>>>> Stashed changes
   "sourceApiVersion": "52.0"
 }

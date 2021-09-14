@@ -9,20 +9,8 @@
     <tabs>standard-CmsChannel</tabs>
     <tabs>standard-CmsWorkspaces</tabs>
     <tabs>standard-CmsExperiences</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>MiningRoster__c</tab>
-        </mappings>
-        <mappings>
-            <tab>MiningSite__c</tab>
-        </mappings>
-        <mappings>
-            <tab>User_Payrecord__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-CmsAuthorHome</tab>
         </mappings>

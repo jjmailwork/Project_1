@@ -179,19 +179,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>MiningRoster__c</tabs>
-    <tabs>MiningSite__c</tabs>
-    <tabs>User_Payrecord__c</tabs>
     <workspaceConfig>
-        <mappings>
-            <tab>MiningRoster__c</tab>
-        </mappings>
-        <mappings>
-            <tab>MiningSite__c</tab>
-        </mappings>
-        <mappings>
-            <tab>User_Payrecord__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

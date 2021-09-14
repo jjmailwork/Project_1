@@ -112,12 +112,4 @@
         <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>Wertzberger</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>Customer Front</name>
-        <type>Network</type>
-    </appMenuItems>
 </AppMenu>
